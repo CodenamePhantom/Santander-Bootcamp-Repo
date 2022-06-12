@@ -29,3 +29,5 @@ limparStorage.addEventListener("click", () => {
   contadorStorage.clear()
   document.location.reload(true)
 })
+
+
